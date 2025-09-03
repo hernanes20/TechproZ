@@ -6,7 +6,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'TechproZ',
-  description: 'Created with v0',
+  description: 'TechproZ - Solutions',
   generator: 'v0.app',
   icons: {
     icon: '/favicon.ico',
